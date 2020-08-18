@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ejercicio4{
+public class Ejercicio03{
     public static void main(String[] args){
         JOptionPane.showMessageDialog(null,"Programa que calcula el sueldo de un empleado");
         String empleado;
